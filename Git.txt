@@ -1,0 +1,12 @@
+-Download and install the latest version of Git https://git-scm.com/downloads
+-create a GitHub account 
+-Start gitbash in your project folder
+-Create a new repository on GitHub 
+-commands 
+
+1. git init
+2. git add .
+3. git commit -m "Message"
+4. git branch -M main
+5. git remote add origin https://github.com/techprivacy/testtt.git
+6. git push -u origin main
